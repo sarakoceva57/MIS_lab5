@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2763443446",
+    "project_id": "novo-e55bf",
+    "storage_bucket": "novo-e55bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2763443446:android:77234c344b9c55118770d7",
+        "android_client_info": {
+          "package_name": "com.example.novo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2763443446-lv5kj10s7vod8l1etniqmuc5mdlpagf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0w6RU8RtrBvAMDrsSgbQ-k_g9KaKQ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2763443446-lv5kj10s7vod8l1etniqmuc5mdlpagf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
